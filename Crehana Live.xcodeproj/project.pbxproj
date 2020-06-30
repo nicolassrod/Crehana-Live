@@ -3,16 +3,36 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		377AD87024AADD92005345C5 /* MediumWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAEA24AAAE3E002829B6 /* MediumWidget.swift */; };
+		377AD87324AAE636005345C5 /* LargeWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377AD87124AAE5B5005345C5 /* LargeWidget.swift */; };
 		3791DA8624AA3F54002829B6 /* Crehana_LiveApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DA8524AA3F54002829B6 /* Crehana_LiveApp.swift */; };
 		3791DA8824AA3F54002829B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DA8724AA3F54002829B6 /* ContentView.swift */; };
 		3791DA8A24AA3F55002829B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3791DA8924AA3F55002829B6 /* Assets.xcassets */; };
 		3791DA8D24AA3F55002829B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3791DA8C24AA3F55002829B6 /* Preview Assets.xcassets */; };
 		3791DA9824AA3F56002829B6 /* Crehana_LiveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DA9724AA3F56002829B6 /* Crehana_LiveTests.swift */; };
 		3791DAA324AA3F56002829B6 /* Crehana_LiveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAA224AA3F56002829B6 /* Crehana_LiveUITests.swift */; };
+		3791DAB724AA3F90002829B6 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3791DAB624AA3F90002829B6 /* WidgetKit.framework */; };
+		3791DAB924AA3F90002829B6 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3791DAB824AA3F90002829B6 /* SwiftUI.framework */; };
+		3791DABC24AA3F90002829B6 /* Crehana_Live_Widget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DABB24AA3F90002829B6 /* Crehana_Live_Widget.swift */; };
+		3791DABE24AA3F91002829B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3791DABD24AA3F91002829B6 /* Assets.xcassets */; };
+		3791DAC224AA3F91002829B6 /* Crehana Live WidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3791DAB424AA3F90002829B6 /* Crehana Live WidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3791DACC24AA423B002829B6 /* LiveClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DACB24AA423B002829B6 /* LiveClass.swift */; };
+		3791DACE24AA42DC002829B6 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 3791DACD24AA42DC002829B6 /* data.json */; };
+		3791DAD324AA4AB5002829B6 /* RemoteImageModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAD224AA4AB5002829B6 /* RemoteImageModifier.swift */; };
+		3791DAD624AA4B6B002829B6 /* KingfisherSwiftUIDynamic in Frameworks */ = {isa = PBXBuildFile; productRef = 3791DAD524AA4B6B002829B6 /* KingfisherSwiftUIDynamic */; };
+		3791DAD724AA4B6B002829B6 /* KingfisherSwiftUIDynamic in Embed Frameworks */ = {isa = PBXBuildFile; productRef = 3791DAD524AA4B6B002829B6 /* KingfisherSwiftUIDynamic */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		3791DADD24AA4BB6002829B6 /* RemoteImageModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAD224AA4AB5002829B6 /* RemoteImageModifier.swift */; };
+		3791DAE024AA4D0E002829B6 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DADF24AA4D0E002829B6 /* Image.swift */; };
+		3791DAE124AA5A7A002829B6 /* LiveClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DACB24AA423B002829B6 /* LiveClass.swift */; };
+		3791DAE424AA5CF4002829B6 /* WidgetRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAE224AA5AED002829B6 /* WidgetRepository.swift */; };
+		3791DAE524AA5E7C002829B6 /* SmallWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DAC724AA4157002829B6 /* SmallWidget.swift */; };
+		3791DAE624AA5F31002829B6 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3791DADF24AA4D0E002829B6 /* Image.swift */; };
+		3791DAE824AA63BC002829B6 /* KingfisherSwiftUIStatic in Frameworks */ = {isa = PBXBuildFile; productRef = 3791DAE724AA63BC002829B6 /* KingfisherSwiftUIStatic */; };
+		3791DAE924AAA287002829B6 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 3791DACD24AA42DC002829B6 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,9 +50,52 @@
 			remoteGlobalIDString = 3791DA8124AA3F54002829B6;
 			remoteInfo = "Crehana Live";
 		};
+		3791DAC024AA3F91002829B6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3791DA7A24AA3F53002829B6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3791DAB324AA3F90002829B6;
+			remoteInfo = "Crehana Live WidgetExtension";
+		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		3791DAC624AA3F91002829B6 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				3791DAC224AA3F91002829B6 /* Crehana Live WidgetExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3791DAD824AA4B6B002829B6 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				3791DAD724AA4B6B002829B6 /* KingfisherSwiftUIDynamic in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3791DADC24AA4B76002829B6 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		377AD87124AAE5B5005345C5 /* LargeWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeWidget.swift; sourceTree = "<group>"; };
 		3791DA8224AA3F54002829B6 /* Crehana Live.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crehana Live.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3791DA8524AA3F54002829B6 /* Crehana_LiveApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crehana_LiveApp.swift; sourceTree = "<group>"; };
 		3791DA8724AA3F54002829B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +108,19 @@
 		3791DA9E24AA3F56002829B6 /* Crehana LiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Crehana LiveUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3791DAA224AA3F56002829B6 /* Crehana_LiveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crehana_LiveUITests.swift; sourceTree = "<group>"; };
 		3791DAA424AA3F56002829B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3791DAB424AA3F90002829B6 /* Crehana Live WidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Crehana Live WidgetExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3791DAB624AA3F90002829B6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		3791DAB824AA3F90002829B6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		3791DABB24AA3F90002829B6 /* Crehana_Live_Widget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crehana_Live_Widget.swift; sourceTree = "<group>"; };
+		3791DABD24AA3F91002829B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3791DABF24AA3F91002829B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3791DAC724AA4157002829B6 /* SmallWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallWidget.swift; sourceTree = "<group>"; };
+		3791DACB24AA423B002829B6 /* LiveClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveClass.swift; sourceTree = "<group>"; };
+		3791DACD24AA42DC002829B6 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		3791DAD224AA4AB5002829B6 /* RemoteImageModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteImageModifier.swift; sourceTree = "<group>"; };
+		3791DADF24AA4D0E002829B6 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
+		3791DAE224AA5AED002829B6 /* WidgetRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetRepository.swift; sourceTree = "<group>"; };
+		3791DAEA24AAAE3E002829B6 /* MediumWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumWidget.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3791DAD624AA4B6B002829B6 /* KingfisherSwiftUIDynamic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,6 +146,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3791DAB124AA3F90002829B6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3791DAB924AA3F90002829B6 /* SwiftUI.framework in Frameworks */,
+				3791DAB724AA3F90002829B6 /* WidgetKit.framework in Frameworks */,
+				3791DAE824AA63BC002829B6 /* KingfisherSwiftUIStatic in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -78,6 +165,8 @@
 				3791DA8424AA3F54002829B6 /* Crehana Live */,
 				3791DA9624AA3F56002829B6 /* Crehana LiveTests */,
 				3791DAA124AA3F56002829B6 /* Crehana LiveUITests */,
+				3791DABA24AA3F90002829B6 /* Crehana Live Widget */,
+				3791DAB524AA3F90002829B6 /* Frameworks */,
 				3791DA8324AA3F54002829B6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -88,6 +177,7 @@
 				3791DA8224AA3F54002829B6 /* Crehana Live.app */,
 				3791DA9324AA3F56002829B6 /* Crehana LiveTests.xctest */,
 				3791DA9E24AA3F56002829B6 /* Crehana LiveUITests.xctest */,
+				3791DAB424AA3F90002829B6 /* Crehana Live WidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,6 +185,8 @@
 		3791DA8424AA3F54002829B6 /* Crehana Live */ = {
 			isa = PBXGroup;
 			children = (
+				3791DACF24AA4A99002829B6 /* Utils */,
+				3791DAC924AA4184002829B6 /* LiveClasses */,
 				3791DA8524AA3F54002829B6 /* Crehana_LiveApp.swift */,
 				3791DA8724AA3F54002829B6 /* ContentView.swift */,
 				3791DA8924AA3F55002829B6 /* Assets.xcassets */,
@@ -130,6 +222,71 @@
 			path = "Crehana LiveUITests";
 			sourceTree = "<group>";
 		};
+		3791DAB524AA3F90002829B6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3791DAB624AA3F90002829B6 /* WidgetKit.framework */,
+				3791DAB824AA3F90002829B6 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3791DABA24AA3F90002829B6 /* Crehana Live Widget */ = {
+			isa = PBXGroup;
+			children = (
+				3791DACD24AA42DC002829B6 /* data.json */,
+				3791DABB24AA3F90002829B6 /* Crehana_Live_Widget.swift */,
+				3791DAC724AA4157002829B6 /* SmallWidget.swift */,
+				3791DAEA24AAAE3E002829B6 /* MediumWidget.swift */,
+				377AD87124AAE5B5005345C5 /* LargeWidget.swift */,
+				3791DAE224AA5AED002829B6 /* WidgetRepository.swift */,
+				3791DABD24AA3F91002829B6 /* Assets.xcassets */,
+				3791DABF24AA3F91002829B6 /* Info.plist */,
+			);
+			path = "Crehana Live Widget";
+			sourceTree = "<group>";
+		};
+		3791DAC924AA4184002829B6 /* LiveClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3791DACA24AA420B002829B6 /* Domain */,
+			);
+			path = LiveClasses;
+			sourceTree = "<group>";
+		};
+		3791DACA24AA420B002829B6 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				3791DACB24AA423B002829B6 /* LiveClass.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		3791DACF24AA4A99002829B6 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3791DAD124AA4AB5002829B6 /* Modifier */,
+				3791DADE24AA4CE2002829B6 /* Extensions */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3791DAD124AA4AB5002829B6 /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				3791DAD224AA4AB5002829B6 /* RemoteImageModifier.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
+		3791DADE24AA4CE2002829B6 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				3791DADF24AA4D0E002829B6 /* Image.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -140,12 +297,18 @@
 				3791DA7E24AA3F54002829B6 /* Sources */,
 				3791DA7F24AA3F54002829B6 /* Frameworks */,
 				3791DA8024AA3F54002829B6 /* Resources */,
+				3791DAC624AA3F91002829B6 /* Embed App Extensions */,
+				3791DAD824AA4B6B002829B6 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				3791DAC124AA3F91002829B6 /* PBXTargetDependency */,
 			);
 			name = "Crehana Live";
+			packageProductDependencies = (
+				3791DAD524AA4B6B002829B6 /* KingfisherSwiftUIDynamic */,
+			);
 			productName = "Crehana Live";
 			productReference = 3791DA8224AA3F54002829B6 /* Crehana Live.app */;
 			productType = "com.apple.product-type.application";
@@ -186,6 +349,27 @@
 			productReference = 3791DA9E24AA3F56002829B6 /* Crehana LiveUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		3791DAB324AA3F90002829B6 /* Crehana Live WidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3791DAC324AA3F91002829B6 /* Build configuration list for PBXNativeTarget "Crehana Live WidgetExtension" */;
+			buildPhases = (
+				3791DAB024AA3F90002829B6 /* Sources */,
+				3791DAB124AA3F90002829B6 /* Frameworks */,
+				3791DAB224AA3F90002829B6 /* Resources */,
+				3791DADC24AA4B76002829B6 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Crehana Live WidgetExtension";
+			packageProductDependencies = (
+				3791DAE724AA63BC002829B6 /* KingfisherSwiftUIStatic */,
+			);
+			productName = "Crehana Live WidgetExtension";
+			productReference = 3791DAB424AA3F90002829B6 /* Crehana Live WidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -206,6 +390,9 @@
 						CreatedOnToolsVersion = 12.0;
 						TestTargetID = 3791DA8124AA3F54002829B6;
 					};
+					3791DAB324AA3F90002829B6 = {
+						CreatedOnToolsVersion = 12.0;
+					};
 				};
 			};
 			buildConfigurationList = 3791DA7D24AA3F54002829B6 /* Build configuration list for PBXProject "Crehana Live" */;
@@ -217,6 +404,9 @@
 				Base,
 			);
 			mainGroup = 3791DA7924AA3F53002829B6;
+			packageReferences = (
+				3791DAD424AA4B6A002829B6 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = 3791DA8324AA3F54002829B6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -224,6 +414,7 @@
 				3791DA8124AA3F54002829B6 /* Crehana Live */,
 				3791DA9224AA3F56002829B6 /* Crehana LiveTests */,
 				3791DA9D24AA3F56002829B6 /* Crehana LiveUITests */,
+				3791DAB324AA3F90002829B6 /* Crehana Live WidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -234,6 +425,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3791DA8D24AA3F55002829B6 /* Preview Assets.xcassets in Resources */,
+				3791DACE24AA42DC002829B6 /* data.json in Resources */,
 				3791DA8A24AA3F55002829B6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -252,6 +444,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3791DAB224AA3F90002829B6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3791DABE24AA3F91002829B6 /* Assets.xcassets in Resources */,
+				3791DAE924AAA287002829B6 /* data.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -260,7 +461,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3791DA8824AA3F54002829B6 /* ContentView.swift in Sources */,
+				3791DAE024AA4D0E002829B6 /* Image.swift in Sources */,
 				3791DA8624AA3F54002829B6 /* Crehana_LiveApp.swift in Sources */,
+				3791DAD324AA4AB5002829B6 /* RemoteImageModifier.swift in Sources */,
+				3791DACC24AA423B002829B6 /* LiveClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +484,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3791DAB024AA3F90002829B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3791DAE524AA5E7C002829B6 /* SmallWidget.swift in Sources */,
+				3791DAE624AA5F31002829B6 /* Image.swift in Sources */,
+				3791DADD24AA4BB6002829B6 /* RemoteImageModifier.swift in Sources */,
+				377AD87324AAE636005345C5 /* LargeWidget.swift in Sources */,
+				3791DAE424AA5CF4002829B6 /* WidgetRepository.swift in Sources */,
+				377AD87024AADD92005345C5 /* MediumWidget.swift in Sources */,
+				3791DABC24AA3F90002829B6 /* Crehana_Live_Widget.swift in Sources */,
+				3791DAE124AA5A7A002829B6 /* LiveClass.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -292,6 +511,11 @@
 			isa = PBXTargetDependency;
 			target = 3791DA8124AA3F54002829B6 /* Crehana Live */;
 			targetProxy = 3791DA9F24AA3F56002829B6 /* PBXContainerItemProxy */;
+		};
+		3791DAC124AA3F91002829B6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3791DAB324AA3F90002829B6 /* Crehana Live WidgetExtension */;
+			targetProxy = 3791DAC024AA3F91002829B6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -415,6 +639,7 @@
 		3791DAA824AA3F56002829B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -437,6 +662,7 @@
 		3791DAA924AA3F56002829B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -540,6 +766,50 @@
 			};
 			name = Release;
 		};
+		3791DAC424AA3F91002829B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = D5DZX4N5C6;
+				INFOPLIST_FILE = "Crehana Live Widget/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nicolasr.Crehana-Live.Crehana-Live-Widget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3791DAC524AA3F91002829B6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = D5DZX4N5C6;
+				INFOPLIST_FILE = "Crehana Live Widget/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nicolasr.Crehana-Live.Crehana-Live-Widget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -579,7 +849,40 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		3791DAC324AA3F91002829B6 /* Build configuration list for PBXNativeTarget "Crehana Live WidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3791DAC424AA3F91002829B6 /* Debug */,
+				3791DAC524AA3F91002829B6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3791DAD424AA4B6A002829B6 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.14.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3791DAD524AA4B6B002829B6 /* KingfisherSwiftUIDynamic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3791DAD424AA4B6A002829B6 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = KingfisherSwiftUIDynamic;
+		};
+		3791DAE724AA63BC002829B6 /* KingfisherSwiftUIStatic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3791DAD424AA4B6A002829B6 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = KingfisherSwiftUIStatic;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3791DA7A24AA3F53002829B6 /* Project object */;
 }

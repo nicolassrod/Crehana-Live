@@ -1,0 +1,538 @@
+{
+    "data": {
+        "nextLives": {
+            "edges": [
+                {
+                    "node": {
+                        "originalId": 580,
+                        "title": "Jugemos con el papel",
+                        "url": "",
+                        "description": "Jugemos con el papel",
+                        "fullDescription": "Jugemos con el papel",
+                        "startLive": "2020-06-30T21:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=Jugemos+con+el+papel&dates=20200630T210000Z%2F20200630T220000Z&details=%3Cb%3EJugemos+con+el+papel%3C%2Fb%3E%0Acon+%0A%0AJugemos+con+el+papel%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fjugemos-con-el-papel%2F&ctz=America%2FLima",
+                        "dueLive": "2020-06-30T22:00:00+00:00",
+                        "slug": "jugemos-con-el-papel",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/cea9b1bb/jugemos-con-el-papel.png",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/6318df13/jugemos-con-el-papel.png",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/bde77032/jugemos-con-el-papel.png",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/42bb3c68/jugemos-con-el-papel.png",
+                        "liveDetailUrl": "/live/jugemos-con-el-papel/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZToxMg==",
+                            "originalId": 12,
+                            "name": "Niños",
+                            "slug": "ninos",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 873637,
+                                        "username": "samigarra",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/7eccc330/samigarra.jpeg",
+                                        "profileUrl": "/users/samigarra/",
+                                        "fullName": "Sami Garra",
+                                        "occupation": "Artista",
+                                        "bio": "¡Hola, soy Sami! Soy ilustradora, artesana, fotógrafa y feliz. Soy argentina pero ya hace una década que vivo en Galicia (España). Y desde hace 4 años he desarrollado, como Sami Garra, mi propia marca personal a través de la que busco motivar a otros, sobre todo mujeres, a través de la creatividad en todas sus formas para que puedan ser más felices y creativos. \r\n\r\nAsí, creo todo tipo de contenido craft para mi propia marca (y también para otras) en el que predominan el color, la fotografía, los sellos hechos a mano o el snail mail y también imparto cursos y talleres online y de forma presencial en España y América Latina.",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 241167,
+                                        "username": "rominacp",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/6751017d/rominacp.jpeg",
+                                        "profileUrl": "/users/rominacp/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-jvojuym",
+                        "channelEvent": "event-jvojuym",
+                        "channelEventAddPin": "add-pin-jvojuym",
+                        "channelEventRemovePin": "rm-pin-jvojuym",
+                        "channelEventHideChat": "hide-jvojuym",
+                        "channelEventChatQuestion": "question-jvojuym",
+                        "channelEventLikeChat": "like-jvojuym",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 569,
+                        "title": "El ABC para emprender un proyecto social",
+                        "url": "",
+                        "description": "El ABC para emprender un proyecto social",
+                        "fullDescription": "El ABC para emprender un proyecto social",
+                        "startLive": "2020-06-30T23:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=El+ABC+para+emprender+un+proyecto+social&dates=20200630T230000Z%2F20200701T000000Z&details=%3Cb%3EEl+ABC+para+emprender+un+proyecto+social%3C%2Fb%3E%0Acon+%0A%0AEl+ABC+para+emprender+un+proyecto+social%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fel-abc-para-emprender-un-proyecto-social%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-01T00:00:00+00:00",
+                        "slug": "el-abc-para-emprender-un-proyecto-social",
+                        "videoProvider": "youtube",
+                        "isSubscribed": true,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/da9fa3fe/el-abc-para-emprender-un-proyecto-social.png",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/45f65e7a/el-abc-para-emprender-un-proyecto-social.png",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/c391e188/el-abc-para-emprender-un-proyecto-social.png",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/a5152d55/el-abc-para-emprender-un-proyecto-social.png",
+                        "liveDetailUrl": "/live/el-abc-para-emprender-un-proyecto-social/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZTo2",
+                            "originalId": 6,
+                            "name": "Emprendimiento",
+                            "slug": "emprendimiento",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 2423844,
+                                        "username": "adecardenas",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/8f848ed9/adecardenas.png",
+                                        "profileUrl": "/users/adecardenas/",
+                                        "fullName": "Alberto De Cárdenas",
+                                        "occupation": "",
+                                        "bio": "Alberto de Cárdenas, el es co-fundador y Director Ejecutivo de la ONG Perú Champs. Economista graduado de la Universidad del Pacífico con una maestría en Administración de Empresas en Tuck School of Business en Dartmouth (USA). Es Vicepresidente de Nexus Group, parte del grupo Intercorp y tiene amplia experiencia como consultor en temas de gestión y estrategia en distintas organizaciones sociales.",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 1061671,
+                                        "username": "piacastaneda1",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/f9a5668b/piacastaneda1.jpeg",
+                                        "profileUrl": "/users/piacastaneda1/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-u80sley",
+                        "channelEvent": "event-u80sley",
+                        "channelEventAddPin": "add-pin-u80sley",
+                        "channelEventRemovePin": "rm-pin-u80sley",
+                        "channelEventHideChat": "hide-u80sley",
+                        "channelEventChatQuestion": "question-u80sley",
+                        "channelEventLikeChat": "like-u80sley",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 581,
+                        "title": "Materiales para crear sellos",
+                        "url": "",
+                        "description": "Materiales para crear sellos",
+                        "fullDescription": "Materiales para crear sellos",
+                        "startLive": "2020-07-01T19:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=Materiales+para+crear+sellos&dates=20200701T190000Z%2F20200701T200000Z&details=%3Cb%3EMateriales+para+crear+sellos%3C%2Fb%3E%0Acon+%0A%0AMateriales+para+crear+sellos%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fmateriales-para-crear-sellos%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-01T20:00:00+00:00",
+                        "slug": "materiales-para-crear-sellos",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/544b8908/materiales-para-crear-sellos.jpg",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/7a8d4bdf/materiales-para-crear-sellos.jpg",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/542da889/materiales-para-crear-sellos.jpg",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/d69c0e9d/materiales-para-crear-sellos.jpg",
+                        "liveDetailUrl": "/live/materiales-para-crear-sellos/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZToz",
+                            "originalId": 3,
+                            "name": "Manualidades",
+                            "slug": "Manualidades",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 873637,
+                                        "username": "samigarra",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/7eccc330/samigarra.jpeg",
+                                        "profileUrl": "/users/samigarra/",
+                                        "fullName": "Sami Garra",
+                                        "occupation": "Artista",
+                                        "bio": "¡Hola, soy Sami! Soy ilustradora, artesana, fotógrafa y feliz. Soy argentina pero ya hace una década que vivo en Galicia (España). Y desde hace 4 años he desarrollado, como Sami Garra, mi propia marca personal a través de la que busco motivar a otros, sobre todo mujeres, a través de la creatividad en todas sus formas para que puedan ser más felices y creativos. \r\n\r\nAsí, creo todo tipo de contenido craft para mi propia marca (y también para otras) en el que predominan el color, la fotografía, los sellos hechos a mano o el snail mail y también imparto cursos y talleres online y de forma presencial en España y América Latina.",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 1064381,
+                                        "username": "renzaj",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/ed2380c5/renzaj.jpeg",
+                                        "profileUrl": "/users/renzaj/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-7mbjp1f",
+                        "channelEvent": "event-7mbjp1f",
+                        "channelEventAddPin": "add-pin-7mbjp1f",
+                        "channelEventRemovePin": "rm-pin-7mbjp1f",
+                        "channelEventHideChat": "hide-7mbjp1f",
+                        "channelEventChatQuestion": "question-7mbjp1f",
+                        "channelEventLikeChat": "like-7mbjp1f",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 582,
+                        "title": "¿Por qué saber más de KPIs?",
+                        "url": "",
+                        "description": "¿Por qué saber más de KPIs?",
+                        "fullDescription": "¿Por qué saber más de KPIs?",
+                        "startLive": "2020-07-01T22:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=%C2%BFPor+qu%C3%A9+saber+m%C3%A1s+de+KPIs%3F&dates=20200701T220000Z%2F20200701T230000Z&details=%3Cb%3E%C2%BFPor+qu%C3%A9+saber+m%C3%A1s+de+KPIs%3F%3C%2Fb%3E%0Acon+%0A%0A%C2%BFPor+qu%C3%A9+saber+m%C3%A1s+de+KPIs%3F%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fpor-que-saber-mas-de-kpis%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-01T23:00:00+00:00",
+                        "slug": "por-que-saber-mas-de-kpis",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/e8e9066b/por-que-saber-mas-de-kpis.jpg",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/a24364d0/por-que-saber-mas-de-kpis.jpg",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/1944f53d/por-que-saber-mas-de-kpis.jpg",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/af588d8e/por-que-saber-mas-de-kpis.jpg",
+                        "liveDetailUrl": "/live/por-que-saber-mas-de-kpis/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZToxNQ==",
+                            "originalId": 15,
+                            "name": "Marketing Digital",
+                            "slug": "marketing-digital",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 661143,
+                                        "username": "melisalucero",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/e495094b/melisalucero.JPG",
+                                        "profileUrl": "/users/melisalucero/",
+                                        "fullName": "Melisa Lucero",
+                                        "occupation": "Digital Marketing Specialist at L`Oréal",
+                                        "bio": "Con un perfil de base como Periodista, supe sumar mi curiosidad por las nuevas tecnologías y la innovación a mi perfil. Así, tomando cursos, capacitaciones, leyendo y aprendiendo de los mejores intenté ampliar horizontes y hoy tengo una visión 360° de las aristas que componen el Marketing Digital actualmente. Continuamente aprendiendo.",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 1064381,
+                                        "username": "renzaj",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/ed2380c5/renzaj.jpeg",
+                                        "profileUrl": "/users/renzaj/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-pm4o91r",
+                        "channelEvent": "event-pm4o91r",
+                        "channelEventAddPin": "add-pin-pm4o91r",
+                        "channelEventRemovePin": "rm-pin-pm4o91r",
+                        "channelEventHideChat": "hide-pm4o91r",
+                        "channelEventChatQuestion": "question-pm4o91r",
+                        "channelEventLikeChat": "like-pm4o91r",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 583,
+                        "title": "Encuentra nuevas voces en la actuación",
+                        "url": "",
+                        "description": "Encuentra nuevas voces en la actuación",
+                        "fullDescription": "Encuentra nuevas voces en la actuación",
+                        "startLive": "2020-07-02T19:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=Encuentra+nuevas+voces+en+la+actuaci%C3%B3n&dates=20200702T190000Z%2F20200702T200000Z&details=%3Cb%3EEncuentra+nuevas+voces+en+la+actuaci%C3%B3n%3C%2Fb%3E%0Acon+%0A%0AEncuentra+nuevas+voces+en+la+actuaci%C3%B3n%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fencuentra-nuevas-voces-en-la-actuacion%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-02T20:00:00+00:00",
+                        "slug": "encuentra-nuevas-voces-en-la-actuacion",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/f3ef051d/encuentra-nuevas-voces-en-la-actuacion.jpg",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/bc8c6c8d/encuentra-nuevas-voces-en-la-actuacion.jpg",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/ff80b08b/encuentra-nuevas-voces-en-la-actuacion.jpg",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/8b74310e/encuentra-nuevas-voces-en-la-actuacion.jpg",
+                        "liveDetailUrl": "/live/encuentra-nuevas-voces-en-la-actuacion/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZToxNA==",
+                            "originalId": 14,
+                            "name": "Actuación",
+                            "slug": "actuacion",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 1901402,
+                                        "username": "pattyazan",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/2e787d29/pattyazan.jpeg",
+                                        "profileUrl": "/users/pattyazan/",
+                                        "fullName": "Patricia Azan",
+                                        "occupation": "Actriz, Coach y Profesora",
+                                        "bio": "Hola, soy Patricia Azán actriz de doblaje, teatro, televisión, cine y coach de actuación. Actualmente soy la voz oficial para América Latina de Eric Cartman, Kyle Broflovski, Tweek, Bebe y ocho personajes protagónicos más, en la serie animada de \"South Park\" y tambien de su video juego \"Retaguardia en Peligro\".  \nSoy ademas la voz de Vicky en los \"Padrinos Mágicos\" y muchos de sus personajes secundarios.\nMe puedes encontrar por Netflix en la serie animada \"Glitter Force\" como Glitter Verde/April, Brooha y La Reina Euforia/Polvera Mágica, y en \"Popples\" como Sunny y la Señorita Snooply. \n",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 241167,
+                                        "username": "rominacp",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/6751017d/rominacp.jpeg",
+                                        "profileUrl": "/users/rominacp/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-i32g7c2",
+                        "channelEvent": "event-i32g7c2",
+                        "channelEventAddPin": "add-pin-i32g7c2",
+                        "channelEventRemovePin": "rm-pin-i32g7c2",
+                        "channelEventHideChat": "hide-i32g7c2",
+                        "channelEventChatQuestion": "question-i32g7c2",
+                        "channelEventLikeChat": "like-i32g7c2",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 579,
+                        "title": "Experimentos con Andrea y Mr. Fox",
+                        "url": "",
+                        "description": "En esta clase los más pequeños van a conocer cómo se forma la lluvia a través del experimento y el movimiento. ¡Van a bailar, jugar y observar!",
+                        "fullDescription": "Experimentar es un recurso ideal para aprender, sobre todo cuando hablamos de lo que nos rodea, ¡como la lluvia!\r\n \r\nAndrea y Mr. Fox van a acompañar a los niños y niñas, a crear un poco de lluvia en una taza. Pero eso no es todo, para sentir más cerquita cómo es, van a moverse como ella y observar su formación. Y como Mr. Fox adora los tesoros, vamos a unir juntos todo aquello que queremos y agradecemos. ¿Qué tal el desayuno de mamá o papá? ¿O un juguete favorito?\r\n\r\nSi eres el adulto en casa, prepara un espacio seguro y en el que puedas acompañarle. Ve por los siguientes materiales: una taza, un frasco, un plato, agua caliente y hielo. ¡Aquí nos vemos!",
+                        "startLive": "2020-07-02T21:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=Experimentos+con+Andrea+y+Mr.+Fox&dates=20200702T210000Z%2F20200702T220000Z&details=%3Cb%3EExperimentos+con+Andrea+y+Mr.+Fox%3C%2Fb%3E%0Acon+%0A%0AEn+esta+clase+los+m%C3%A1s+peque%C3%B1os+van+a+conocer+c%C3%B3mo+se+forma+la+lluvia+a+trav%C3%A9s+del+experimento+y+el+movimiento.+%C2%A1Van+a+bailar%2C+jugar+y+observar%21%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fexperimentos-con-andrea-y-mr-fox-1%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-02T22:00:00+00:00",
+                        "slug": "experimentos-con-andrea-y-mr-fox-1",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/5ced753d/experimentos-con-andrea-y-mr-fox.png",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/b08b107c/experimentos-con-andrea-y-mr-fox.png",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/3862a5d7/experimentos-con-andrea-y-mr-fox.png",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/75e3d36d/experimentos-con-andrea-y-mr-fox.png",
+                        "liveDetailUrl": "/live/experimentos-con-andrea-y-mr-fox-1/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZToxMg==",
+                            "originalId": 12,
+                            "name": "Niños",
+                            "slug": "ninos",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 2382529,
+                                        "username": "andreavalega",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/9b85ed43/andreavalega.jpeg",
+                                        "profileUrl": "/users/andreavalega/",
+                                        "fullName": "Andrea Valega Amézaga",
+                                        "occupation": "Creadora de contenido",
+                                        "bio": "Creadora de Andrea y Mr. Fox, un programa infantil con contenido educativo y desarrollo socio emocional. Soy psióloga, maestra de inglés y animadora de fiestas infantiles. (@escuelita_divertida_de_andrea) ",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 418434,
+                                        "username": "wendydelacruz",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/profiles/pictures/2018/03/07/1b363e5362f64af3a6c2d4f126ee88c3.png",
+                                        "profileUrl": "/users/wendydelacruz/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-cmeqoi3",
+                        "channelEvent": "event-cmeqoi3",
+                        "channelEventAddPin": "add-pin-cmeqoi3",
+                        "channelEventRemovePin": "rm-pin-cmeqoi3",
+                        "channelEventHideChat": "hide-cmeqoi3",
+                        "channelEventChatQuestion": "question-cmeqoi3",
+                        "channelEventLikeChat": "like-cmeqoi3",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                },
+                {
+                    "node": {
+                        "originalId": 584,
+                        "title": "Redacción creativa publicitaria",
+                        "url": "",
+                        "description": "Redacción creativa publicitaria",
+                        "fullDescription": "Redacción creativa publicitaria",
+                        "startLive": "2020-07-03T23:00:00+00:00",
+                        "calendarLink": "https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&text=Redacci%C3%B3n+creativa+publicitaria&dates=20200703T230000Z%2F20200704T000000Z&details=%3Cb%3ERedacci%C3%B3n+creativa+publicitaria%3C%2Fb%3E%0Acon+%0A%0ARedacci%C3%B3n+creativa+publicitaria%0A%0Ahttps%3A%2F%2Fwww.crehana.com%2Flive%2Fredaccion-creativa-publicitaria%2F&ctz=America%2FLima",
+                        "dueLive": "2020-07-04T00:00:00+00:00",
+                        "slug": "redaccion-creativa-publicitaria",
+                        "videoProvider": "youtube",
+                        "isSubscribed": false,
+                        "userIsEnrolled": false,
+                        "bannerPcImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_pc/196060d8/redaccion-creativa-publicitaria.jpg",
+                        "bannerTabletImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_tablet/98c650e9/redaccion-creativa-publicitaria.jpg",
+                        "bannerMobileImageUrl": "https://crehana-public-catalog.imgix.net/images/live/banner_mobile/adba2ad8/redaccion-creativa-publicitaria.jpg",
+                        "coverCard": "https://crehana-public-catalog.imgix.net/images/live/cover_card/7371e66a/redaccion-creativa-publicitaria.jpg",
+                        "liveDetailUrl": "/live/redaccion-creativa-publicitaria/",
+                        "channelTotalMessage": 0,
+                        "liveCategory": {
+                            "id": "TGl2ZUNhdGVnb3J5Tm9kZTo1",
+                            "originalId": 5,
+                            "name": "Publicidad",
+                            "slug": "publicidad",
+                            "__typename": "LiveCategoryNode"
+                        },
+                        "isLive": false,
+                        "presenter": null,
+                        "presenters": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 1241318,
+                                        "username": "roberto.guerrero",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/images/users/profiles/4d7465fe/robby-guerrero-gonzalez.jpeg",
+                                        "profileUrl": "/users/roberto.guerrero/",
+                                        "fullName": "Roberto Guerrero",
+                                        "occupation": "Publicista / Redactor Creativo",
+                                        "bio": "Con 10 años de experiencia, en los cuales he trabajado en distintas agencias de publicidad y para diferentes marcas, tanto nacionales como internacionales, en las cuales he dejado huella con cada uno de los textos e ideas realizadas para las distintas campañas creadas (desde conceptos creativos hasta la creación de contenidos digitales).",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "moderators": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "originalId": 418434,
+                                        "username": "wendydelacruz",
+                                        "thumbnailUrl": "https://crehana-public-users.imgix.net/profiles/pictures/2018/03/07/1b363e5362f64af3a6c2d4f126ee88c3.png",
+                                        "profileUrl": "/users/wendydelacruz/",
+                                        "__typename": "UserNode"
+                                    },
+                                    "__typename": "UserNodeEdge"
+                                }
+                            ],
+                            "__typename": "UserNodeConnection"
+                        },
+                        "channel": "ch-lake4hv",
+                        "channelEvent": "event-lake4hv",
+                        "channelEventAddPin": "add-pin-lake4hv",
+                        "channelEventRemovePin": "rm-pin-lake4hv",
+                        "channelEventHideChat": "hide-lake4hv",
+                        "channelEventChatQuestion": "question-lake4hv",
+                        "channelEventLikeChat": "like-lake4hv",
+                        "views": 0,
+                        "coursePreSale": null,
+                        "__typename": "LiveNode"
+                    },
+                    "__typename": "LiveNodeEdge"
+                }
+            ],
+            "__typename": "LiveNodeConnection"
+        },
+        "currentLive": {
+            "edges": [],
+            "__typename": "LiveNodeConnection"
+        }
+    }
+}
